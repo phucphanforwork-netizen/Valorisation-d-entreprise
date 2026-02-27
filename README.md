@@ -151,6 +151,8 @@ Cette approche reflète la pratique professionnelle en Private Equity, où la va
 | LBO | 24.26 € | 31.39 € | 42.36 € |
 | DCF avec synergies (2%–4%) | 55.82 € | 58.74 € | 62.26 € |
 
+
+![Football Field Valuation](Football_Field.png)
 ### 🧠 Interprétation Financière
 Le Football Field met en évidence plusieurs enseignements clés :
 

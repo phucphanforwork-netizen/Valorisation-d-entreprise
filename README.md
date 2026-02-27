@@ -170,6 +170,7 @@ Dans une perspective d’acquisition stratégique, la zone de valorisation la pl
 Tandis que la valorisation LBO constitue une borne basse correspondant au prix maximal soutenable par un fonds de Private Equity sous contrainte de rendement cible.
 
 Ainsi, le Football Field confirme que la création de valeur dans une opération de type Marriott–Accor serait principalement tirée par les synergies opérationnelles plutôt que par l’effet de levier financier seul.
+
 ---
 
 ## 🛠️ Outils & Compétences Mobilisées

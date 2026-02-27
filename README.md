@@ -89,6 +89,16 @@ Multiple retenu : EV/EBITDA médian ≈ 13.28x
 
 Le TRI modéré reflète un scénario conservateur sans synergies opérationnelles.
 
+## 📉 Analyse de Sensibilité & Lecture M&A
+- Hausse du levier (70%) → IRR ≈ 12.56%
+- Baisse du levier (50%) → IRR ≈ 8.15%
+- Forte sensibilité au WACC et au taux de croissance terminal (g)
+
+Accor apparaît comme une cible LBO « défensive » :
+- Cash-flows stables
+- Modèle asset-light
+- Désendettement soutenable
+
 ---
 
 ## 🤝 LBO Stratégique avec Synergies (Marriott – Accor)
@@ -114,16 +124,49 @@ Impact sur les FCFF :
 
 ---
 
-## 📉 Analyse de Sensibilité & Lecture M&A
-- Hausse du levier (70%) → IRR ≈ 12.56%
-- Baisse du levier (50%) → IRR ≈ 8.15%
-- Forte sensibilité au WACC et au taux de croissance terminal (g)
+## 🏈 Football Field Valuation (DCF – Comparables – LBO)
 
-Accor apparaît comme une cible LBO « défensive » :
-- Cash-flows stables
-- Modèle asset-light
-- Désendettement soutenable
+Afin de synthétiser les résultats des différentes approches de valorisation, un graphique de type *Football Field* est construit en prix par action. Cette représentation permet de comparer visuellement les fourchettes de valorisation issues de méthodes intrinsèques, relatives et transactionnelles dans une logique Corporate Finance et M&A.
 
+### 📊 Méthodologie
+Le Football Field repose sur une conversion homogène de toutes les méthodes en **valeur par action** :
+- DCF → Valeur intrinsèque (équity value par action)
+- Comparables → Valorisation relative (EV/EBITDA sectoriel)
+- LBO → Prix d’acquisition implicite soutenable pour un investisseur Private Equity
+- DCF avec synergies → Valorisation stratégique dans un scénario M&A (Marriott)
+
+La fourchette LBO est obtenue à l’aide du Solveur en fixant des TRI cibles de :
+- 25% (investisseur PE exigeant)
+- 20% (scénario central)
+- 15% (scénario conservateur)
+
+Cette approche reflète la pratique professionnelle en Private Equity, où la valorisation correspond au **maximum affordable price** sous contrainte de rendement cible.
+
+### 📈 Résultats du Football Field (Prix par action)
+
+| Méthode | Min | Moyenne | Max |
+|---------|-----|---------|-----|
+| DCF | 36.60 € | 43.67 € | 89.38 € |
+| Comparables | 45.41 € | 61.04 € | 71.24 € |
+| LBO | 24.26 € | 31.39 € | 42.36 € |
+| DCF avec synergies (2%–4%) | 55.82 € | 58.74 € | 62.26 € |
+
+### 🧠 Interprétation Financière
+Le Football Field met en évidence plusieurs enseignements clés :
+
+- La valorisation LBO est inférieure à la DCF, ce qui est cohérent car elle reflète un prix d’acquisition soutenable sous contrainte de TRI et non la valeur intrinsèque de long terme.
+- Les comparables se situent entre la DCF et le LBO, confirmant la cohérence de la valorisation de marché du secteur hôtelier.
+- L’intégration des synergies (scénario Marriott–Accor) déplace significativement la valorisation vers le haut, illustrant une création de valeur principalement opérationnelle.
+- L’écart entre DCF et LBO souligne la différence fondamentale entre une logique d’investisseur stratégique (synergies) et une logique d’investisseur financier (Private Equity).
+
+### 🎯 Lecture M&A
+Dans une perspective d’acquisition stratégique, la zone de valorisation la plus pertinente se situe entre :
+- Le DCF standalone (valeur fondamentale)
+- Le DCF avec synergies (valeur stratégique)
+
+Tandis que la valorisation LBO constitue une borne basse correspondant au prix maximal soutenable par un fonds de Private Equity sous contrainte de rendement cible.
+
+Ainsi, le Football Field confirme que la création de valeur dans une opération de type Marriott–Accor serait principalement tirée par les synergies opérationnelles plutôt que par l’effet de levier financier seul.
 ---
 
 ## 🛠️ Outils & Compétences Mobilisées

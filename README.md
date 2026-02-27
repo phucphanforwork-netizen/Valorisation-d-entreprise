@@ -26,6 +26,7 @@ L’objectif est d’estimer une fourchette de valeur cohérente et d’analyser
 - Modèle LBO sans synergies
 - LBO stratégique avec synergies (Marriott – Accor)
 - Analyse MOIC, IRR et désendettement
+- Football Field Valuation
 
 ---
 
